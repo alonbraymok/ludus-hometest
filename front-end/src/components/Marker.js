@@ -1,10 +1,11 @@
 import React, { useState } from 'react';
 
 
+
 const Marker = (props) => {
 
     const { markerImage } = props
-
+    
 
     return(
         <div>
